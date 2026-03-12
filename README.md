@@ -8,4 +8,5 @@ Multiple-choice quizzes – Users can select answers and get instant feedback.
 Score tracking – Keeps track of correct answers to monitor performance.
 Responsive design – Works well on both desktop and mobile devices.
 
+
 Technologies Used - HTML, CSS, JavaScript
